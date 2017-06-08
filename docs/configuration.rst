@@ -79,7 +79,7 @@ If ``spreadlend = 1`` and ``gapbottom = 0``, it will behave as simple lending bo
 - ``gapMode`` is the "mode" you would like your gaps to be calculated in.
 
     - Default value: Relative
-    - Allowed values: Relative, RawBTC
+    - Allowed values: Relative, RawBTC, Raw
     - The values are case insensitive.
     - The purpose of spreading your lends is to skip dust offers in the lendbook, and also to take advantage of any spikes that occur.
     - Mode descriptions:
